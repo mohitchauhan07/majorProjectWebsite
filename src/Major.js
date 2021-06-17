@@ -6,7 +6,7 @@ const Major = () => {
     return(
         <>
             <div className='card'>
-
+                <p>Mohit Chauhan</p>
             </div>
         </>
     
