@@ -8,6 +8,7 @@ const Major = () => {
             <div className='card'>
                 <p>Mohit Chauhan</p>
                <p>{"My name is Pratul Hazela"}</p>
+               <p>{"Studying in GTBIT"}</p>
             </div>
         </>
     
