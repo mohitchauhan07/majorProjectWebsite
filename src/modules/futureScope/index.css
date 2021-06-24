@@ -1,0 +1,29 @@
+/* .futureScope {
+    padding-top: 100px;
+  } */
+  
+  .futureScopeContainer {
+    height: 1200px;
+    margin: 0 auto;
+    padding: 21px;
+  }
+  
+  .futureScopeCardsContainer {
+    flex-wrap: wrap;
+    justify-content: space-around;
+    height: 99%;
+  }
+  
+  .futureScopeHeading {
+    margin: 0 0 21px 7px;
+  }
+  
+  .graphicsPart {
+    width: 58%;
+    height: 30%;
+  }
+  
+  .contentPart {
+    width: 40%;
+    height: 30%;
+  }

@@ -1,0 +1,34 @@
+.approachCard {
+  width: 80%;
+  height: 612px;
+  margin: 0 auto;
+  align-items: center;
+  position: relative;
+}
+
+.approachHeading {
+  margin: 15px 0;
+}
+
+.approachPara {
+  margin: 72px 0;
+  width: 73%;
+  line-height: 36px;
+  word-spacing: 7px;
+}
+
+.approachImg1 {
+  position: absolute;
+  top: 135px;
+  left: 68px;
+  width: 45%;
+  height: 330px;
+}
+
+.approachImg2 {
+  position: absolute;
+  top: 135px;
+  right: 68px;
+  width: 45%;
+  height: 330px;
+}
