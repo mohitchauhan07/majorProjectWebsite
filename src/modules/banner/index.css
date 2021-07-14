@@ -1,0 +1,6 @@
+.banner{
+    height: 800px;
+    margin-bottom: 30px;
+    /* border: 1px solid black; */
+    display: flex;
+}

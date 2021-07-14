@@ -23,6 +23,12 @@
   left: 68px;
   width: 45%;
   height: 330px;
+  transition: 1s ease;
+}
+
+.approachCard:hover .approachImg1{
+  transform: translateX(-300px);
+  width: 30%;
 }
 
 .approachImg2 {
@@ -31,4 +37,16 @@
   right: 68px;
   width: 45%;
   height: 330px;
+  transition: 1s ease;
+  
+}
+.approachImg1>img{
+  border-radius: 20px;
+}
+.approachImg2>img{
+  border-radius: 20px;
+}
+.approachCard:hover .approachImg2{
+  transform: translateX(300px);
+  width: 30%;
 }
