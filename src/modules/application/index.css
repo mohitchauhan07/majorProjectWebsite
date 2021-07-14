@@ -1,0 +1,15 @@
+.applicationSection{
+    width: 70%;
+    margin: 0 auto 100px auto;
+}
+.applicationContainer{
+    display: flex;
+    justify-content: space-between;
+}
+.applicationHeading{
+    font-size: 40px;
+    font-weight: 600;
+    color: var(--headingColor);
+    margin: 0 0 50px 0;
+    text-decoration: underline;
+}

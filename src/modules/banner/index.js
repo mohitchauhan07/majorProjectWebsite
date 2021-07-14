@@ -21,20 +21,9 @@ const Banner = (props) => {
                     </div>
                 </div>
                 <div class="image">
-                {/* <video src='images/view_3.mp4' loop width="750" height="500" > */}
-                    {/* <source src="images/view_3.mp4" type="video/mp4"/> */}
-                {/* </video> */}
-
                 <video autoPlay muted={true} loop>
                 <source src="images/view_3.mp4" type="video/mp4"/>
                 </video>
-                {/* <div onClick={onClickImg}>
-                      <video src={"images/view_3.mp4"} width="600" height="600" loop/>
-                </div> */}
-                    {/* <video autoplay muted loop id="myVideo">
-                        <source src="images/view_3.mp4" type="video/mp4"/>
-                    </video> */}
-                
                 </div>
             </div>
         </div>      

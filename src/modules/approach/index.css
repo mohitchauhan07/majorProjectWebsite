@@ -46,12 +46,12 @@
 }
 .approachImg1>img{
   border-radius: 20px;
-  border: 1px solid rgba(0,0,0,0.5);
+  border: 2px solid rgba(0,0,0,0.5);
   
 }
 .approachImg2>img{
   border-radius: 20px;
-  border: 1px solid rgba(0,0,0,0.5);
+  border: 2px solid rgba(0,0,0,0.5);
 }
 .approachCard:hover .approachImg2{
   transform: translateX(240px);
