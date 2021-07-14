@@ -58,8 +58,8 @@ function Footer() {
               connectLink={"https://www.linkedin.com/in/saraja-kadambari-223b42170/"}
             />
             <Contributor
-              src={"./images/user1.jpeg"}
-              name={"Vaibhav Chakrabarti"}
+              src={"./images/user5.jpeg"}
+              name={"Vaibhav Chakarvarti"}
               connectLink={"https://www.linkedin.com/in/vaibhav-chakarvarti-9b230618b/"}
             />
           </div>
