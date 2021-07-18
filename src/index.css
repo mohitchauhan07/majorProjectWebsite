@@ -185,7 +185,7 @@ select {
   --headingColor: #6d3035;
   --paraColor: #8c5757;
   --cardBgColor: rgba(252, 252, 252);
-  --boxShadow: 0 10px 16px 0 rgb(0 0 0 / 20%),0 10px 16px 0 rgb(0 0 0 / 20%) 0 6px 20px 0 rgb(0 0 0 / 19%);
+  --boxShadow:2px 4px 16px rgb(0 0 0 / 27%)
 }
 
 body {

@@ -13,24 +13,24 @@ const Application = () => {
         }
       >
         <Card
-          src={"images/app1.png"}
-          heading={"Image Based Lidar System"}
+          src={"images/RedSea.jpg"}
+          heading={"3D RECONSTRUCTION OF A CANYON IN RED SEA"}
           para={
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi velit ligula, rutrum hendrerit arcu vitae, fermentum placerat sapien. Phasellus dignissim leo eu tellus varius, et egestas diam faucibus. Nulla volutpat, odio sit amet faucibus varius, metus nunc aliquam mauris, non dictum ante diam rhoncus lectus. Ut tempor varius elit consequat scelerisque. Aenean congue mi nec lacus lacinia sodales. Curabitur at libero risus."
+            "A new canyon -MOD 45155030 was discovered by the Royal Navy in the Red Sea using 3D construction and echo sounding technology ."
           }
         />
         <Card
-          src={"images/app2.jpg"}
+          src={"images/Robot.jpeg"}
           heading={"Autonomus Robots"}
           para={
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi velit ligula, rutrum hendrerit arcu vitae, fermentum placerat sapien. Phasellus dignissim leo eu tellus varius, et egestas diam faucibus. Nulla volutpat, odio sit amet faucibus varius, metus nunc aliquam mauris, non dictum ante diam rhoncus lectus. Ut tempor varius elit consequat scelerisque. Aenean congue mi nec lacus lacinia sodales. Curabitur at libero risus."
+            "Images are taken from the robot as input and are processed on 3D model to predict the position and the path of the robot"
           }
         />
         <Card
-          src={"images/app3.jpg"}
+          src={"images/Self-driving-Car.jpg"}
           heading={"Self-Driving Car"}
           para={
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi velit ligula, rutrum hendrerit arcu vitae, fermentum placerat sapien. Phasellus dignissim leo eu tellus varius, et egestas diam faucibus. Nulla volutpat, odio sit amet faucibus varius, metus nunc aliquam mauris, non dictum ante diam rhoncus lectus. Ut tempor varius elit consequat scelerisque. Aenean congue mi nec lacus lacinia sodales. Curabitur at libero risus."
+            "3D construction is used in self-driving cars like Tesla to predict the motion and drivable space of the vehicle."
           }
         />
       </div>

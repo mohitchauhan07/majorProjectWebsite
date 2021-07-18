@@ -18,12 +18,29 @@
     margin: 0 0 21px 7px;
   }
   
-  .graphicsPart {
+  .contentPart {
     width: 58%;
     height: 30%;
+    padding:40px
   }
   
-  .contentPart {
+  .graphicsPart {
     width: 40%;
     height: 30%;
+  }
+
+  .scopeHeading{
+    font-weight: 700;
+  }
+
+  .scopeImg{
+    border-radius: 30px;
+  }
+
+  .scopeContent{
+    margin-top: 20px;
+    font-size:18px;
+    line-height: 36px;
+    word-spacing: 7px;
+    text-align: justify;
   }
